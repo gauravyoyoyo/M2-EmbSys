@@ -3,23 +3,23 @@
 
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
-   In this project, microcontroller, sensors, led, motor, buzzer, keypad is used. The user has to select the option to go up or down, press the button in keypad the doors will open user has to enter into the lift select he desired floor. Once the lift reaches to desired floor then it will come back to ground floor.
+   In this project, microcontroller, sensors, led, motor, buzzer, keypad, light and fan is used. The user has to select the option to go up or down, press the button in keypad the doors will open user has to enter into the lift select he desired floor. Once the lift reaches to desired floor then it will come back to ground floor.
  
  ## Purpose
-     * To move people from one floor to another with proper saftey
+ * To move people from one floor to another with proper saftey
     
  ## Inputs 
-     * User need to tell the desire floor.
+ * User need to tell the desire floor.
     
  ## Outputs
-     * lift car will come to the floor from where it has called.
-     * Led indicator will be on 
-     * Door opens , Light and fan Switch on inside the car
+ * lift car will come to the floor from where it has called.
+ * Led indicator will be on 
+ * Door opens, Light and fan Switch on inside the car
  ## REQURIMENTS
    
    ### High Level Requriment
    
-   | HLR |DESCRIPTION|
+   | HLR |               DESCRIPTION|
    |:----:|:--------------------------------------------------|
    |HLR01|Elevator car must come to floor, where it has called|
    |HLR02|Door must open when car reaches the floor|
@@ -29,7 +29,7 @@
    
    ### Low Level Requriment
    
-   | LLR |DESCRIPTION|
+   | LLR |          DESCRIPTION|
    |:----:|:--------------------------------------------------|
    |LLR01|Door should be open for 10 Seconds|
    |LLR02|Buzzer beep when lift reaches to foor|
@@ -37,7 +37,7 @@
    |LLR04|fan, light, switches, buzzer|
    |LLR05|Telephone for emergency contact|
    |LLR06|Fixed speed for the movement of car|
-   |LLR0||
+   
    
 ## Block Diaggram 
 
@@ -63,3 +63,22 @@
    * There is a LCD to show the position of lift and the input given by hr user
    * There is a keypad inside lift car for the user input.
    * There is LED indicator at every floor.
+   
+## System Testing
+
+| TEST ID |                DESCRIPTION|
+|:----:|:--------------------------------------------------|
+|TC01|All user Command Must function correctly|
+|TC02|All the content of LCD should appear as per the program|
+|TC03|Check the functionality of Keypad|
+|TC04|Check Buzzer at each floor |
+|TC05|Check the timing of car to arrival and departure|
+|TC06|Check the time of door opening and closing|
+|TC07|Check the infrared sensor |
+|TC08|Check the funcationality of lift at time of power failure|
+|TC09|Check telephone|
+|TC08|Check the emergency alaram|
+|TC09|Check the working of fan and light inside the car|
+|TC10|Check the Led indiactor at each floor showing correct indiaction or not|
+
+ 
