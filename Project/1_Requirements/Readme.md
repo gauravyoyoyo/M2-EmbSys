@@ -47,3 +47,19 @@
 
 ![Flow chart](https://user-images.githubusercontent.com/57553580/154838695-c8b8f4a6-16fb-4539-8278-741047e402b6.jpg)
 
+## Design Metrics
+
+   ### Power Dissipation
+   * As required by Motors and display and microcontroller unit
+   ### Performance 
+   * The responce time of a car to come to a floor where it is called must be less than 30 Seconds
+   * Door must be open for 10 seconds 
+   * Buzzer should beep to 1 second
+   ### Process Deadlines
+   * Door must be closed after 5 second when user press the desired floor button in keypad.
+   * light and fan start with 1 second when the lift door opens and switch off when no one inside the lift car
+   * If user not press the desired floor button lift must beep after 10 second 
+   ### User Interface
+   * There is a LCD to show the position of lift and the input given by hr user
+   * There is a keypad inside lift car for the user input.
+   * There is LED indicator at every floor.
