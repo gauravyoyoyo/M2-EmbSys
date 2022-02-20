@@ -1,3 +1,4 @@
+
 # ELEVATOR CONTROL SYSTEM
 
 ## Introduction
@@ -38,3 +39,11 @@
    |LLR06|Fixed speed for the movement of car|
    |LLR0||
    
+## Block Diaggram 
+
+![block diagram](https://user-images.githubusercontent.com/57553580/154838648-be8b8d37-4746-46b3-b324-f003355fb619.jpg)
+
+## Flow Chart
+
+![Flow chart](https://user-images.githubusercontent.com/57553580/154838695-c8b8f4a6-16fb-4539-8278-741047e402b6.jpg)
+
