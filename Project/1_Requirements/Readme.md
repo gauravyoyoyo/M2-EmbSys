@@ -2,7 +2,7 @@
 # ELEVATOR CONTROL SYSTEM
 
 ## Tabel of Content
-   ![Introduction](https://github.com/gauravyoyoyo/M2-EmbSys/edit/main/Project/1_Requirements/Readme.md#introduction)
+   [Introduction](#introduction)
    
    2.Purpose
    3.Requriments
@@ -14,7 +14,7 @@
      * Performance
      * Process Deadlines
      * User Interface
-   6.![System Testing](https://github.com/gauravyoyoyo/M2-EmbSys/edit/main/Project/1_Requirements/Readme.md#System_testing)
+   [System Testing](#System_testing)
    
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
