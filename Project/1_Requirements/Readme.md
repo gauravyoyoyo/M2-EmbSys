@@ -2,14 +2,19 @@
 # ELEVATOR CONTROL SYSTEM
 
 ## Tabel of Content
-   1.Introduction
+   ![Introduction](https://github.com/gauravyoyoyo/M2-EmbSys/edit/main/Project/1_Requirements/Readme.md#introduction)
+   
    2.Purpose
    3.Requriments
      * High Level Requriment
      * Low Level Requriment
    4.Block Diaggram 
    5.Design Metrics
-   6.System Testing
+     * Power Dissipation
+     * Performance
+     * Process Deadlines
+     * User Interface
+   6.![System Testing](https://github.com/gauravyoyoyo/M2-EmbSys/edit/main/Project/1_Requirements/Readme.md#System_testing)
    
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
@@ -27,19 +32,18 @@
    |HLR01|Elevator car must come to floor, where it has called|
    |HLR02|Door must open when car reaches the floor|
    |HLR03|Door must closed before car start moving toward desired floor|
-   |HLR04|Should display the position of the car using led light|
-   |HLR05|Should give buzzer sound before opening and closing the door|
+   |HLR04|It shall display the position of the car using led light|
+   |HLR05|It shall give buzzer sound before opening and closing the door|
    
    ### Low Level Requriment
    
    | LLR |          DESCRIPTION|
    |:----:|:--------------------------------------------------|
-   |LLR01|Door should be open for 10 Seconds|
-   |LLR02|Buzzer beep when lift reaches to foor|
-   |LLR03|Motor and gear box setup|
-   |LLR04|fan, light, switches, buzzer|
-   |LLR05|Telephone for emergency contact|
-   |LLR06|Fixed speed for the movement of car|
+   |LLR01|Door must be open for 10 Seconds|
+   |LLR02|The buzzer must beep when lift reaches to foor|
+   |LLR03|It shall have fan, light, switches, buzzer|
+   |LLR04|It must have Telephone for emergency contact|
+   |LLR05|It shall has Fixed speed for the movement of car|
    
 ## Block Diaggram 
 
