@@ -1,6 +1,16 @@
 
 # ELEVATOR CONTROL SYSTEM
 
+## Tabel of Content
+   1.Introduction
+   2.Purpose
+   3.Requriments
+     * High Level Requriment
+     * Low Level Requriment
+   4.Block Diaggram 
+   5.Design Metrics
+   6.System Testing
+   
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
    In this project, microcontroller, sensors, led, motor, buzzer, keypad, light and fan is used. The user has to select the option to go up or down, press the button in keypad the doors will open user has to enter into the lift select he desired floor. Once the lift reaches to desired floor then it will come back to ground floor.
@@ -8,14 +18,7 @@
  ## Purpose
  * To move people from one floor to another with proper saftey
     
- ## Inputs 
- * User need to tell the desire floor.
-    
- ## Outputs
- * lift car will come to the floor from where it has called.
- * Led indicator will be on 
- * Door opens, Light and fan Switch on inside the car
- ## REQURIMENTS
+ ## Rrequriments
    
    ### High Level Requriment
    
@@ -37,7 +40,6 @@
    |LLR04|fan, light, switches, buzzer|
    |LLR05|Telephone for emergency contact|
    |LLR06|Fixed speed for the movement of car|
-   
    
 ## Block Diaggram 
 
