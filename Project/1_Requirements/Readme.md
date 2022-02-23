@@ -2,19 +2,29 @@
 # ELEVATOR CONTROL SYSTEM
 
 ## Tabel of Content
-   [Introduction](#introduction)
+  1. [Introduction](#introduction)
    
-   2.Purpose
-   3.Requriments
-     * High Level Requriment
-     * Low Level Requriment
-   4.Block Diaggram 
-   5.Design Metrics
-     * Power Dissipation
-     * Performance
-     * Process Deadlines
-     * User Interface
-   [System Testing](#System_testing)
+  2. [Purpose](#purpose)
+   
+  3. [Requriments](#requriments)
+   
+     * [High Level Requriment](#high-level-requriment)
+   
+     * [Low Level Requriment](#low-level-requriment)
+    
+  4. [Block Diagram](#block-diagram)
+   
+  5. [Design Metrics](#design-metrics)
+   
+     * [Power Dissipation](#power-dissipation)
+   
+     * [Performance](#performance)
+    
+     * [Process Deadlines](#process-deadlines)
+    
+     * [User Interface](#user-interface)
+    
+   6. [System Testing](#system-testing)
    
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
@@ -23,7 +33,7 @@
  ## Purpose
  * To move people from one floor to another with proper saftey
     
- ## Rrequriments
+ ## Requriments
    
    ### High Level Requriment
    
@@ -45,7 +55,7 @@
    |LLR04|It must have Telephone for emergency contact|
    |LLR05|It shall has Fixed speed for the movement of car|
    
-## Block Diaggram 
+## Block Diagram 
 
 ![block diagram](https://user-images.githubusercontent.com/57553580/154838648-be8b8d37-4746-46b3-b324-f003355fb619.jpg)
 
