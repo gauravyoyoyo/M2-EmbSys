@@ -33,13 +33,19 @@
     
    7. [System Testing](#system-testing)
    
+   
+   
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
    In this project, microcontroller, sensors, led, motor, buzzer, keypad, light and fan is used. The user has to select the option to go up or down, press the button in keypad the doors will open user has to enter into the lift select he desired floor. Once the lift reaches to desired floor then it will come back to ground floor.
  
+ 
+ 
 ## Purpose
  * Elevator is avertical transportation system commonly use in buildings to move people between multiple floors with proper saftey
-    
+
+
+
 ## Requriments
    
    #### High Level Requriment
@@ -61,7 +67,9 @@
    |LLR03|It shall have fan, light, switches, buzzer|
    |LLR04|It must have Telephone for emergency contact|
    |LLR05|It shall has Fixed speed for the movement of car|
-   
+
+
+
 ## Block Diagram 
 
 ![block diagram](https://user-images.githubusercontent.com/57553580/154838648-be8b8d37-4746-46b3-b324-f003355fb619.jpg)
@@ -69,6 +77,8 @@
 ## Flow Chart
 
 ![Flow chart](https://user-images.githubusercontent.com/57553580/154838695-c8b8f4a6-16fb-4539-8278-741047e402b6.jpg)
+
+
 
 ## Design Metrics
 
@@ -87,6 +97,8 @@
    * There is a keypad inside lift car for the user input.
    * There is LED indicator at every floor.
 
+
+
 ## Components
 
    #### Sensors
@@ -101,6 +113,10 @@
    * __Keypad__ : It is used for user to input the desired floor number, Call in Emergency service, Alram Switch.
    * __LCD Display__: It is used to display the current status of elevator car, on which floor it is. 
    
+   
+
+
+
 ## System Testing
 
 | TEST ID |                DESCRIPTION|
