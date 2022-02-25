@@ -27,7 +27,7 @@
    
        * [Sensors](#sensors)
        
-       * [Actuators](#astuators)
+       * [Actuators](#actuators)
        
        * [User Interaction](#user-interaction)
     
@@ -90,11 +90,16 @@
 ## Components
 
    #### Sensors
-   *  
+   * __Level Sensor__ : It is use to calculate the alignment of elevator car between the two floor.
+   * __Door Sensor__: Ti is device that detects a passenger or an object on the doorway which prevents the doors from closing.
   
    #### Actuators
-   * __Motor__ : kkkm
+   * __Motor__ : A motor at the top of the shaft turns a sheave—essentially a pulley—that raises and lowers cables attached to the cab and a counterweight.
+   * __Limit Switch__ : They are used in elevators to notify the system that the elevaaor car has reached the desired floor.
+   
    #### User Interaction
+   * __Keypad__ : It is used for user to input the desired floor number, Call in Emergency service, Alram Switch.
+   * __LCD Display__: It is used to display the current status of elevator car, on which floor it is. 
    
 ## System Testing
 
