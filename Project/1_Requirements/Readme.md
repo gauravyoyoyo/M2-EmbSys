@@ -1,5 +1,4 @@
-
-# **ELEVATOR CONTROL SYSTEM**
+# ELEVATOR CONTROL SYSTEM
 
 ## Tabel of Content
   1. [Introduction](#introduction)
