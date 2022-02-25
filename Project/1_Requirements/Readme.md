@@ -22,8 +22,16 @@
      * [Process Deadlines](#process-deadlines)
     
      * [User Interface](#user-interface)
+   
+   6. [Components](#components)
+   
+       * [Sensors](#sensors)
+       
+       * [Actuators](#astuators)
+       
+       * [User Interaction](#user-interaction)
     
-   6. [System Testing](#system-testing)
+   7. [System Testing](#system-testing)
    
 ## Introduction
    Elevator are the most common system now days .We use elevator every day to move goods or peoples vertically in a building such as shooping centre, Office building, Hospitals and more. Help people to move to desired floor in short time as compare to staircase.
@@ -78,6 +86,15 @@
    * There is a LCD to show the position of lift and the input given by hr user
    * There is a keypad inside lift car for the user input.
    * There is LED indicator at every floor.
+
+## Components
+
+   #### Sensors
+   *  
+  
+   #### Actuators
+   * __Motor__ : kkkm
+   #### User Interaction
    
 ## System Testing
 
