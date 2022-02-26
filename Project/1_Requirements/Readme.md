@@ -71,8 +71,11 @@
 
 
 ## Block Diagram 
+![Block Diagram drawio](https://user-images.githubusercontent.com/57553580/155829370-78e5def2-589b-4d1c-9545-e03356f81724.png)
 
-![block diagram](https://user-images.githubusercontent.com/57553580/154838648-be8b8d37-4746-46b3-b324-f003355fb619.jpg)
+  ### Detailed Block Diagram
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/57553580/155831109-6d1c0a7f-9c5b-4150-aa6a-0f681648b9fd.png)
+
 
 ## Flow Chart
 
