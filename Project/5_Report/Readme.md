@@ -32,8 +32,10 @@
        * [Actuators](#actuators)
        
        * [User Interaction](#user-interaction)
+   
+   7. [Circuit Diagram](#circuit-diagram)
     
-   7. [System Testing](#system-testing)
+   8. [System Testing](#system-testing)
    
    
    
@@ -116,6 +118,8 @@
    * __LCD Display__: It is used to display the current status of elevator car, on which floor it is. 
    
    
+## Circuit Diagram
+![Circuit Diagram](https://user-images.githubusercontent.com/57553580/156881542-4c79c26b-d43d-44bf-98b9-1c29abeccb05.png)
 
 
 
