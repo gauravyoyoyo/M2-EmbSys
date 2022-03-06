@@ -34,8 +34,10 @@
        * [User Interaction](#user-interaction)
    
    7. [Circuit Diagram](#circuit-diagram)
+  
+   8. [Description of schematic](#description-of-schematic)
     
-   8. [System Testing](#system-testing)
+   9. [System Testing](#system-testing)
    
    
    
@@ -121,7 +123,23 @@
 ## Circuit Diagram
 ![Circuit Diagram](https://user-images.githubusercontent.com/57553580/156881542-4c79c26b-d43d-44bf-98b9-1c29abeccb05.png)
 
+## Description of schematic
 
+   * Fn (n = 1,2,3,4) - There are sensors Level switch which connected on every floor. Each sensor is connected by a resistor and link up with analog input A0 on Arduino Uno. Each sensor when is active has own signal from interval (0;1024). Level of signal depends on the resisting of resistor.
+
+   * Cn (n = 1,2,3,4) - There are buttons of calling the elevator (Call bar). They are connected by resistors with different nominals and link up to analog input A1 on Arduino Uno. The call bar has two buttons (only on 2,3 floors).These buttons are used to call Elevator, the dependency wherever you want to go (up/down) - It's not implemented at the moment! Also each floor has one led which light up when this floor is called.
+
+   * CS (Calibration Switch) is a calibration switch located on the first floor. When the Elevator starts to work, first and foremost, it is calibrating (down to the first floor, while CS is not pressed).
+
+   * CBn ( n = 1,2,3,4) - There are the Elevator call buttons which are located in the cabin. They also are connected by resistors with different nominals and link up to analog input A0 on Arduino nano(In the Cabin).
+
+   * Lift Motor -  a step motor with connected by driver module ULN2003.
+
+   * Display - I connected the Lcd display 16x2 by module I2C. The display shows the floor at the moment.
+
+   * Door Servor Motor - The servo drive is used to open and close the door.
+
+   * Buzzer - It is used to signal that the Elevator has arrived.
 
 ## System Testing
 
